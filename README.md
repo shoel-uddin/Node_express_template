@@ -13,7 +13,7 @@
 ## Make folder and files
 -   In the terminal use code `mkdir templates` to make `Templates` folder in the project folder.
     - This will allow for you to make your templates file within that folder that can be called using `res.render` in the `index.js` file.
-- In order to make files from your terminal use the code `touch index.js` or whatever file you would like to make ie. `.html` for your temoplates folder.
+- In order to make files from your terminal use the code `touch index.js` or whatever file you would like to make ie. `.html` for your templates folder.
 
 ## Setup index.js
 -  See attached `express-templet.js` file
